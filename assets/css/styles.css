@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;1,600&display=swap");
+:root {
+  --hue-color: 225;
+  --first-color: hsl(var(--hue-color), 48%, 35%);
+  --title-color: hsl(var(--hue-color), 48%, 22%);
+  --text-color: hsl(var(--hue-color), 12%, 35%);
+}
+/*# sourceMappingURL=styles.css.map */
